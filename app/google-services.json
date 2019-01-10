@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "1014845341574",
+    "firebase_url": "https://fir-logindemo-96612.firebaseio.com",
+    "project_id": "fir-logindemo-96612",
+    "storage_bucket": "fir-logindemo-96612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014845341574:android:b407c1adcdf1c11d",
+        "android_client_info": {
+          "package_name": "mudasir.com.firebaselogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014845341574-i3m75mf8fker4sirbriv9eavema35old.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mudasir.com.firebaselogindemo",
+            "certificate_hash": "c647d4da682b625ef02c5402bc4675eb07053531"
+          }
+        },
+        {
+          "client_id": "1014845341574-0u62crueo2o924utbrfffmvs1hvh11k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXSLZU29ilH3XxWgCgKQjMvHzAREvYDEU"
+        },
+        {
+          "current_key": "AIzaSyBxG1TL5APnhWhkdDS0t7ptXWKfKJJPQOo"
+        },
+        {
+          "current_key": "AIzaSyA4kKlkMTeRPx2K6XFsAWs0RFLkp4m62zE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014845341574-0u62crueo2o924utbrfffmvs1hvh11k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

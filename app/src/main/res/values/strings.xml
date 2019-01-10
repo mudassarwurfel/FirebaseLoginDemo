@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseLoginDemo</string>
+    <string name="facebook_app_id">1961407507249334</string>
+    <string name="fb_login_protocol_scheme">fb1961407507249334</string>
+
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">1961407507249334</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1961407507249334</string>
+    <!-- Twitter consumer key and secret -->
+    <string name="twitter_consumer_key" translatable="false">OBk3QWJUlAuhRvKvxegZwZy0R</string>
+    <string name="twitter_consumer_secret" translatable="false">UcsOwLUxhhpVKHccEvvPEMAt14LhCxDwVxRlkzJnQi25mn8TEF</string>
+
+</resources>
